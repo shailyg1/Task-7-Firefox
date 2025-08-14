@@ -1,0 +1,12 @@
+# Installed Firefox Extensions (Before Audit)
+
+1. OneTab
+   - Version: 1.79 (example — check actual in your browser)
+   - Permissions: Access browser tabs, read and modify browsing history, store/retrieve tab lists.
+   - Source: https://addons.mozilla.org/en-US/firefox/addon/onetab/
+
+2. Dark Reader
+   - Version: 4.9.82
+   - Permissions: Change website appearance, access data for all websites.
+   - Source: https://addons.mozilla.org/
+No other extensions found.

@@ -1,0 +1,3 @@
+# Suspicious/Untrusted Extensions Found
+None detected.
+All installed extensions are from the official Mozilla Add-ons store.
